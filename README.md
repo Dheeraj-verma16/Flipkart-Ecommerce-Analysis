@@ -2,9 +2,8 @@
 
 ![Flipkart Logo](https://github.com/Dheeraj-verma16/Flipkart-Ecommerce-Analysis/blob/main/Logo.png)
 
-## My Advice
-If the person using your GitHub is comfortable with Python, adding a small note in your README.md file will prevent any issues:
-"Note: This data is stored in .xlsb format to keep file sizes small. To load this in Python, please use pip install pyxlsb and load with pd.read_excel('filename.xlsb', engine='pyxlsb')."
+## Note: 
+This data is stored in .xlsb format to keep file sizes small. To load this in Python, please use pip install pyxlsb and load with pd.read_excel('filename.xlsb', engine='pyxlsb')."
 
 ## Overview
 This project provides a thorough exploratory data analysis of Flipkart’s e-commerce product listings using Python and Pandas. The objective is to analyze raw, semi-structured data and extract insights from it, by performing data cleaning, feature engineering and categorical analysis. It converts non-standardised product metadata to structured information, which can be useful in patterns emerging in product categories, listing structure, and how the market is distributed; and can aid in the investigation of business intelligence, methods for understanding customer behaviour or for recommendation on an e-commerce platform.
